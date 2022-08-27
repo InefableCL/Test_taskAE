@@ -37,6 +37,6 @@ SELECT friends.who, contacts.name, count(*) as cnt
  LEFT JOIN contacts c1 ON f.id1 = c1.id
  LEFT JOIN contacts c2 ON f.id2 = c2.id
  ```
-2.[Задание_2](Task_2.php).
+2. [Задание_2](Task_2.php).
 
-3.Задание_3 Папка Task_3
+3. Задание_3 Папка Task_3
