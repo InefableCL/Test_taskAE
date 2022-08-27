@@ -39,4 +39,4 @@ SELECT friends.who, contacts.name, count(*) as cnt
  ```
 2.[Задание_2](Task_2.php).
 
-3. Задание_3 Папка Task_3
+3.Задание_3 Папка Task_3
